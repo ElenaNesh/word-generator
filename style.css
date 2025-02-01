@@ -1,0 +1,14 @@
+button {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    justify-self: center;
+}
+p {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    justify-self: center;
+    font-weight: 600;
+
+}
